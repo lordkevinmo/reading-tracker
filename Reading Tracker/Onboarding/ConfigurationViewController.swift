@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ConfigurationViewController.swift
 //  Reading Tracker
 //
 //  Created by Moïse AGBENYA on 26/05/2021.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ConfigurationViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
